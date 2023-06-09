@@ -1,2 +1,3 @@
 #!/bin/bash
-$ telnet towel.blinkenlights.nl
+# Connect to the Star Wars ASCII server
+telnet towel.blinkenlights.nl
